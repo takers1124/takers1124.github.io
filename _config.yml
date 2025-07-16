@@ -1,4 +1,4 @@
 name: null
-title: null
-logo: [need insert link to image]
-theme: jekyll-theme-minimal
+title: Taylor Akers's Portfolio
+logo: <img src="https://github.com/takers1124/takers1124.github.io/blob/main/img/profile_pic.jpg" width=50% height=50%>
+theme: pages-themes/minimal@v0.2.0
