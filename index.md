@@ -1,4 +1,4 @@
-# About Me 
+# About Me 2
 
 <img src="https://github.com/takers1124/takers1124.github.io/blob/main/img/profile_pic.jpg" width=50% height=50%>
 
