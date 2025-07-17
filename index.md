@@ -1,8 +1,4 @@
-# About Me 2
-
-<img src="https://github.com/takers1124/takers1124.github.io/blob/main/img/profile_pic.jpg" width=50% height=50%>
-
-Taylor with *Morchella sp.* in Mount Shasta, CA
+# About Me
 
 ## Professional 
 
