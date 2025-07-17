@@ -1,6 +1,5 @@
 title: Taylor Akers
 description: Professional portfolio
 logo: img/profile_pic.jpg
-kramdown: parse_block_html: true
 remote_theme: pages-themes/minimal@v0.2.0
 
