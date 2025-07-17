@@ -26,7 +26,7 @@ No matter what chapter is next, I hope to continue developing new skills while m
 
 ### Fun facts / interests 
 
-I am interested in all sorts of hobbies (writing, reading, crafting, mushroom cultivation, aquariums, vermicomposting) and activities (hiking, biking, gardening).
+I am interested in all sorts of hobbies (writing, reading, crafting, mushroom hunting, aquarium keeping, vermicomposting) and activities (hiking, biking, gardening).
 What I am focusing on at this stage in life is to finish projects that I have started and be content with routine (which means saying no sometimes and striving for balance between what is new and old).
 
 ### Contact
