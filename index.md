@@ -17,7 +17,7 @@ For my thesis research, I studied the impact of fuel management treatments (pres
 
 Here is a map of my alma matre:
 
-<embed type="text/html" src="img/ucsc2.html" width="600" height="600">
+<embed type="text/html" src="img/ucsc_map.html" width="600" height="600">
 
 ### What I want to do (future)
 
