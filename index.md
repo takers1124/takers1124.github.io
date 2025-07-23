@@ -15,6 +15,9 @@ I traveled for a couple of years, working odd jobs, and then started [teaching E
 Pandemic and etc brought me home to California and while taking care of family, I completed a Master's of Science at CSU, Sacramento in Ecology, Evolution and Conservation Biology.
 For my thesis research, I studied the impact of fuel management treatments (prescribed fire and mechanical thnning) on soil fungal diversity in a mixed coniferous forest.
 
+Here is a map of my alma matre:
+<embed type="text/html" src="ucsc2.html" width="600" height="600">
+
 ### What I want to do (future)
 
 While none of us know what the future holds, I am keeping my options open and trying to remain flexible and hopeful for a more inclusive and supportive world.
