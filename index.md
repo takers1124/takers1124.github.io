@@ -19,6 +19,7 @@ Here is a map of my alma matre:
 
 <embed type="text/html" src="img/ucsc2.html" width="600" height="600">
 
+
 ### What I want to do (future)
 
 While none of us know what the future holds, I am keeping my options open and trying to remain flexible and hopeful for a more inclusive and supportive world.
@@ -31,6 +32,7 @@ For example, this year I took a Data Short Course taught by Environmental Data S
 Here are two graphs depicting climate trends in Fort Collins, Colorado (my current home). Data was pulled from [NOAA NCEI](https://www.ncei.noaa.gov/access), specifically using [this weather station](https://www.ncdc.noaa.gov/cdo-web/datasets/GHCND/stations/GHCND:USC00053005/detail) with records going back to the late 1800s. As you pan around in the mean max temp graph, you can see that the mean max temp in Fort Collins has risen over 2 degrees Fahrenheit over the last century. 
 <embed type="text/html" src="img/FC_ann_TMAX_plot_hv.html" width="600" height="300">
 <embed type="text/html" src="img/FC_ann_PCRP_plot_hv.html" width="600" height="300">
+
 
 ## Personal
 
