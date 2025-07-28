@@ -26,6 +26,15 @@ That being said, I will go where there is opportunity for me to continue with op
 That may be pursuing a PhD, or it may be working in land management, or it may be both with a roundabout path between.
 No matter what chapter is next, I hope to continue developing new skills while making a positive impact on the world. 
 
+For example, this year I took a Data Short Course taught by Environmental Data Science Innovation and Impact Lab ([ESIIL](https://esiil.org/)) and learned how to create this GitHub portfolio page and embedded interactive maps!
+
+Here are two maps depicting climate trends in Fort Collins, Colorado (my current home). Data for these maps was pulled from [NOAA NCEI](https://www.ncei.noaa.gov/access), specifically using [this weather station](https://www.ncdc.noaa.gov/cdo-web/datasets/GHCND/stations/GHCND:USC00053005/detail) with dating going back to the late 1800s. As you pan around in the mean max temp graph, you can see that the mean max temp in Fort Collins has risen over 2 degreed Fahrenheit over the last century. 
+
+<embed type="text/html" src="img/FC_ann_TMAX_plot_hv.html" width="600" height="600">
+
+<embed type="text/html" src="img/FC_ann_PCPR_plot_hv.html" width="600" height="600">
+
+
 ## Personal
 
 ### Fun facts / interests 
