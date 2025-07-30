@@ -16,6 +16,7 @@ Pandemic and etc brought me home to California and while taking care of family, 
 For my thesis research, I studied the impact of fuel management treatments (prescribed fire and mechanical thnning) on soil fungal diversity in a mixed coniferous forest.
 
 Here is a map of my alma matre:
+(buttons on top right allow interaction) 
 
 <embed type="text/html" src="img/ucsc_map2.html" width="600" height="600">
 
