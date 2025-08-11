@@ -9,15 +9,16 @@ My current research project will create spatial data resouces to help guide fore
 
 Here is a map that I created using ArcGIS Pro to showcase pirority areas for conifer cone collection within the Arapaho-Roosevelt National Forest. 
 
-<img src="img/ARP_map.jpg" width="612" height="792">
+<img src="img/ARP_map.jpg" width="650" height="792">
 
 The image below has 3 maps that I created using R Studio, depicting intermediate steps and methodology used in creating the final map above. They are embedded in a slideshow and were part of a presentation that I gave to land managers. 
 
-<img src="img/ARP_workflow.jpg" width="792" height="612">
+<img src="img/ARP_workflow.jpg" width="800" height="612">
 
 While at RMRS, I am gaining many new skills and am particularly focused on spatial data analysis. For example, I just finished a short course taught by Environmental Data Science Innovation and Impact Lab ([ESIIL](https://esiil.org/)) and learned how to create this GitHub portfolio page and embedded interactive maps & graphs!
 
 Here is graph that I made using Python programming language in GitHub's Codespaces. It depicts temperature trends over the last century in Fort Collins, Colorado (my current home). During the course, I learned how to pull climate data from [NOAA NCEI](https://www.ncei.noaa.gov/access), specifically using [this weather station](https://www.ncdc.noaa.gov/cdo-web/datasets/GHCND/stations/GHCND:USC00053005/detail). You can see that the mean max temp in Fort Collins has risen over 2 degrees Fahrenheit over the last century! 
+
 <embed type="text/html" src="img/FC_ann_TMAX_plot_hv.html" width="600" height="300">
 
 ### What I did (past)
@@ -29,12 +30,12 @@ Pandemic and etc brought me home to California and while taking care of family, 
 For my thesis research, I studied the impact of fuel management treatments (prescribed fire and mechanical thinning) on soil fungal diversity in a mixed coniferous forest. Although the manuscript publication is still in progress, the published data can be interactively accessed through the [Global Biodiversity Information Facility, GBIF](https://www.gbif.org/dataset/6f3afd43-a6c9-48c3-9888-67b8c8563991) and all the code I used in the analysis can be seen in my [GitHub repo](https://github.com/takers1124/BFRS_Takers).
 
 Here's a photo of the poster that I presented at the Ecological Scociety of America conference in 2024:
-<img src="img/BFRS_pic.jpg" width="792" height="612">
+<img src="img/BFRS_pic.jpg" width="800" height="612">
 
 And just for fun, here is an interactive map of my alma matre, UC Santa Cruz, created with the [HoloViews Python library](https://holoviews.org/):
 (buttons on top right allow zooming!) 
 
-<embed type="text/html" src="img/ucsc_map2.html" width="700" height="600">
+<embed type="text/html" src="img/ucsc_map2.html" width="720" height="600">
 
 ### What I want to do (future)
 
