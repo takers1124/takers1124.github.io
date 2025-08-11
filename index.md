@@ -28,8 +28,11 @@ I traveled for a couple of years, working odd jobs, and then started [teaching E
 Pandemic and etc brought me home to California and while taking care of family, I completed a Master's of Science at CSU, Sacramento in Ecology, Evolution and Conservation Biology.
 For my thesis research, I studied the impact of fuel management treatments (prescribed fire and mechanical thinning) on soil fungal diversity in a mixed coniferous forest.
 
-Here is a map of my alma matre:
-(buttons on top right allow interaction) 
+Here's a photo of the poster that I presented at the Ecological Scociety of America 2024 conference:
+<img src="img/BFRS_pic.jpg" width="792" height="612">
+
+And just for fun, here is an interactive map of my alma matre, UC Santa Cruz, created with the [HoloViews Python library](https://holoviews.org/):
+(buttons on top right allow zooming!) 
 
 <embed type="text/html" src="img/ucsc_map2.html" width="700" height="600">
 
