@@ -22,13 +22,13 @@ Here is graph that I made using Python programming language in GitHub's Codespac
 
 ### What I did (past)
 
-I started my career studying molecular biology at UC Santa Cruz and worked as an undergraduate in Dr. Al Zahler's lab on a project with Dr. Matt Ragle studying [gene regulation](https://genome.cshlp.org/content/25/7/982.short).
+I started my career studying molecular biology at UC Santa Cruz and worked as an undergraduate in Dr. Al Zahler's lab on a project with Dr. Matt Ragle studying [gene regulation in C. elegans](https://genome.cshlp.org/content/25/7/982.short).
 I enjoyed the research in itself, but after graduating decided that I wanted to learn more about the world in a broader way and figure out my place in it.
 I traveled for a couple of years, working odd jobs, and then started [teaching English in Spain](https://conversaspain.com/auxiliares-de-conversacion/) where I lived for 3.5 years.
 Pandemic and etc brought me home to California and while taking care of family, I completed a Master's of Science at CSU, Sacramento in Ecology, Evolution and Conservation Biology.
-For my thesis research, I studied the impact of fuel management treatments (prescribed fire and mechanical thinning) on soil fungal diversity in a mixed coniferous forest.
+For my thesis research, I studied the impact of fuel management treatments (prescribed fire and mechanical thinning) on soil fungal diversity in a mixed coniferous forest. Although the manuscript publication is still in progress, the published data can be interactively accessed through the [Global Biodiversity Information Facility, GBIF](https://www.gbif.org/dataset/6f3afd43-a6c9-48c3-9888-67b8c8563991) and all the code I used in the analysis can be seen in my [GitHub repo](https://github.com/takers1124/BFRS_Takers).
 
-Here's a photo of the poster that I presented at the Ecological Scociety of America 2024 conference:
+Here's a photo of the poster that I presented at the Ecological Scociety of America conference in 2024:
 <img src="img/BFRS_pic.jpg" width="792" height="612">
 
 And just for fun, here is an interactive map of my alma matre, UC Santa Cruz, created with the [HoloViews Python library](https://holoviews.org/):
@@ -47,8 +47,8 @@ No matter what chapter is next, I hope to continue developing new skills while m
 
 ### Fun facts / interests 
 
-I am interested in all sorts of hobbies (writing, reading, mushroom hunting, aquarium keeping, vermicomposting) and activities (hiking, biking, gardening).
-What I am focusing on at this stage in life is to finish projects that I have started and not overstretch my energy. 
+I am interested in all sorts of hobbies (writing, reading, speaking Spanish, mushroom hunting, aquarium keeping, vermicomposting) and activities (hiking, biking, gardening).
+What I am focusing on at this stage in life is to finish projects that I have started and not overstretch my energy - ¡poco a poco! 
 
 ### Contact
 
