@@ -17,7 +17,7 @@ The image below has 3 maps that I created using R Studio, depicting intermediate
 
 While at RMRS, I am gaining many new skills and am particularly focused on spatial data analysis. For example, I just finished a short course taught by Environmental Data Science Innovation and Impact Lab ([ESIIL](https://esiil.org/)) and learned how to create this GitHub portfolio page and embedded interactive maps & graphs!
 
-Here is graph that I made using Python programming language in GitHub's Codespaces. It depicts temperature trends over the last century in Fort Collins, Colorado (my current home). During the course, I learned how to pull climate data from [NOAA NCEI](https://www.ncei.noaa.gov/access), specifically using [this weather station](https://www.ncdc.noaa.gov/cdo-web/datasets/GHCND/stations/GHCND:USC00053005/detail). You can see that the mean max temp in Fort Collins has risen over 2 degrees Fahrenheit over the last century! 
+Here is graph that I made using Python programming language in GitHub's Codespaces. It depicts temperature trends over the last century in Fort Collins, Colorado (my current home). During the course, I learned how to pull climate data from [NOAA NCEI](https://www.ncei.noaa.gov/access), specifically using [this weather station](https://www.ncdc.noaa.gov/cdo-web/datasets/GHCND/stations/GHCND:USC00053005/detail) located on the Colorado State University campus with records going back to 1893 as part of the [Global Historical Climatology Network](https://www.ncei.noaa.gov/metadata/geoportal/rest/metadata/item/gov.noaa.ncdc:C00861/html). You can see that the mean max temp in Fort Collins has risen over 2 degrees Fahrenheit over the last century! 
 
 <embed type="text/html" src="img/FC_ann_TMAX_plot_hv.html" width="600" height="300">
 
